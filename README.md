@@ -1,3 +1,23 @@
-#Going to make a to do list app
-
-With MongoDB to store the data and bootstrap to style it. I'm thinking Express and EJS will be fun to play with here as well exp coming off the back of messing around with jade the other night.
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.fontFamily": "'Arial'",
+  "workbench.sideBar.location": "left",
+  "workbench.colorTheme": "Relaxed",
+  "window.zoomLevel": 0,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "javascript": "html"
+  },
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 16,
+  "prettier.singleQuote": true,
+  "window.titleBarStyle": "custom"
+}
